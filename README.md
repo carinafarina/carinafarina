@@ -1,8 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-
-
 ## Oiii! Eu sou a Carina Farina
+
+<p align="left"> 
+Em transição de carreira:
+Desejo uma oportunidade na aréa de desenvolvimento, trabalho bem em equipe e tenho interesse em colaborar e adquirir novos conhecimentos.
+Sou uma profissional proativa que visa contribuir para os resultados da empresa. 
+<h2 align="left">
+ 
  <div>
   <a href="https://github.com/carinafarina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carinafarina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -37,7 +42,8 @@
   <a href="https://instagram.com/carina_farina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:carinafarina2014@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carina-farina-98a92393" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ <a href="https://wa.me/+5511947293213" title="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
  
   ![Snake animation](https://github.com/carinafarina/carinafarina/blob/output/github-contribution-grid-snake.svg)
   

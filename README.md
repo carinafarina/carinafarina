@@ -3,7 +3,7 @@
 ## Oiii! Eu sou a Carina Farina
 
 <p align="left"> 
-Em transição de carreira:
+Em transição de Carreira:
 Desejo uma oportunidade na aréa de desenvolvimento, trabalho bem em equipe e tenho interesse em colaborar e adquirir novos conhecimentos.
 Sou uma profissional proativa que visa contribuir para os resultados da empresa. 
 <h2 align="left">

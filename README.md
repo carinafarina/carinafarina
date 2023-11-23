@@ -7,14 +7,12 @@ Em transição de carreira:
 Desejo uma oportunidade na aréa de desenvolvimento, trabalho bem em equipe e tenho interesse em colaborar e adquirir novos conhecimentos.
 Sou uma profissional proativa que visa contribuir para os resultados da empresa. 
 <h2 align="left">
- 
- <div>
+  <div>
   <a href="https://github.com/carinafarina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carinafarina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carinafarina&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##
 <h2 align="left">
  🦄 Linguagens:
 </h2>

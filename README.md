@@ -20,6 +20,10 @@
  </div>
   
   ##
+
+  <p align="left">
+  💌 Sinta-se a vontade para entrar em contato: ⤵️
+</p>
  
 <div> 
  
